@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/mohitdhimanskt/nodeW3#readme",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.7"
   },
   "devDependencies": {},
   "description": ""
